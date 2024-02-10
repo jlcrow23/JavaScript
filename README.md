@@ -2,11 +2,11 @@
 
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+With this project, I was trying to make my JavaScript skills stronger. I learned how to do this ToDo list by watch a few youtube videos. 
 
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
+This ToDo list was created using a lot of different elements of JavaScript, CSS, and HTML.
 
-{Describe your purpose for writing this software.}
+The purpose of this software is to be creative while also learning more JavaScript.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -14,21 +14,18 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio Code with Live Preview extension installed. The Live Preview extension was a great help because I could see my code update without having a server.
 
-{Describe the programming language that you used and any libraries.}
+The programming language used for this was JavaScript, HTML, and CSS.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [YouTube](https://www.youtube.com/watch?v=6eFwtaZf6zc)
+- [W3Schools](https://www.w3schools.com/js/default.asp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I would like to add more styling to this and make a few changes.
+- I would also like to add a save completed function to look back on what was done already.
+- I would also like to be able to work in JavaScript faster and more efficiently.
+- For some reason my category for social is going Social so the css is not formatting. I'll have to dig deeper into this later.
